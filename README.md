@@ -6,7 +6,7 @@ This repo contains the slides and notebook for the ODSC West 2022 presentation, 
 Your model is only as good as the data that goes into it, so removing the maximum amount of noise while retaining signal is vital. This talk will introduce basic time and frequency domain signal processing techniques and methods to identify and deal with motion artefacts. The session will take you through practical examples that you can apply straight away to your biological data. You’ll learn when to apply which techniques and how to evaluate the outcome. I will also make recommendations for data collection to consider when designing a sensor so that you can get the best possible data (because prevention is better than treatment!). Those interested in machine learning and signal analysis for biomedical processing, electrical and optical signals, and wearables technology will enjoy this talk!
 
 ## In this repo
-The linked Google Colab uses real-life PPG data from the PPG-DaLiA dataset (https://archive.ics.uci.edu/ml/datasets/PPG-DaLiA) as an example for exploring different signal processing techniques.
+The linked [Google Colab](https://colab.research.google.com/drive/1D6GyQJq2xUzBRlZ0T9YTkXmWDalrY9ql?usp=sharing) uses real-life PPG data from the PPG-DaLiA dataset (https://archive.ics.uci.edu/ml/datasets/PPG-DaLiA) as an example for exploring different signal processing techniques.
 
 ## Data
 
